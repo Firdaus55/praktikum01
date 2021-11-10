@@ -1,0 +1,46 @@
+.Profilename {
+     color: rgb(1, 1, 145);
+     flex: 2;
+}
+
+.atas {
+    width: 50%;
+    ma
+    
+}
+.head {
+margin-right: 400px ;
+}
+
+.img {
+    display: flex;
+    margin-left: 0px;
+    padding: 20px;
+    justify-content:space-between;
+    
+}
+.div {
+    text-align: right;
+
+    justify-content: space-between;
+}
+
+.fldst {
+    margin: 50px;
+    width: 100px;
+}
+
+.div1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.main {
+    
+}
+.cici {
+    margin: 50px;
+}
+.ii {
+    margin: 50px;
+}
